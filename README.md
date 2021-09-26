@@ -1,6 +1,4 @@
 # CDS
 Crypto Dip Signals
 
-
-- Add suggestions in the issues tab above.
-- Add issues with the site in the issues tab above.
+Use the issues tab above to submit suggestions and issues that you see with the site.
